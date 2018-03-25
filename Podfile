@@ -6,6 +6,12 @@ target 'Fungjai' do
   pod 'Alamofire'
   pod 'AlamofireObjectMapper', :git => "https://github.com/tristanhimmelman/AlamofireObjectMapper.git" ,:branch => "swift-4"
   pod 'AlamofireImage'
+  pod 'Fabric' , '~> 1.7.0'
+  pod 'Crashlytics', '~>  3.9'
+  pod 'SnapKit', '~> 4.0.0'
+  pod 'SwiftyJSON'
+  pod 'PopupDialog'
+  pod 'MBProgressHUD', '~> 1.0.0'
 
   # Pods for Fungjai
 
